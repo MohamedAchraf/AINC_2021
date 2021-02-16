@@ -20,7 +20,7 @@ print ("*** STARTING SCRIPT EXECUTION ***")
 print ("[INFO] PREVENTING WARNING MESSAGE...", end='')
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
-print ("Done!")
+print ("Done!!")
 #---------------------------------------------------
 
 print ("[INFO] LOADING LIBRARIES..")
